@@ -2,7 +2,7 @@
 Created on Nov 8, 2013
 
 @author: Bishwa Hang Rai
-@author: Thomas Kuehner
+
 '''
 import sys
 
